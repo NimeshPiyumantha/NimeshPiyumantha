@@ -73,7 +73,7 @@
   
 [comment]: <> (<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshPiyumantha&langs_count=5&theme=gotham" alt="NimeshPiyumantha | My GitHub Language Stats" />)
 <p align="left"> <a href="https://github.com/NimeshPiyumantha/github-readme-stats"><img alt="NimeshPiyumantha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshPiyumantha&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a> </p>
-### Watch my contribution graph get eaten by the snake 🐍
+##🔥 Watch my contribution graph get eaten by the snake 🐍
 
 ![Nimesh snake gif](https://github.com/Shehanka/Shehanka/blob/output/github-contribution-grid-snake.svg)
 <a href="https://github.com/NimeshPiyumantha/github-readme-activity-graph"><img alt="NimeshPiyumantha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NimeshPiyumantha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
