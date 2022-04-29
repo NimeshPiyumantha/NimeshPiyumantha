@@ -11,8 +11,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/NimeshPiyumantha.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/NimeshPiyumantha?tab=followers)
 
-
-
 ## :sassy_man:  About me
 
 - :school: I am  `Studied` at IJSE-Institute of Software Engineering... <img align="right" alt="GIF" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/image.gif" width="300" height="300" style="max-width: 100%;">
