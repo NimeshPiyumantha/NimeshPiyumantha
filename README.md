@@ -15,7 +15,7 @@
 
 ## :sassy_man:  About me
 
-- :school: I am  `Studied` at IJSE-Institute of Software Engineering... <img align="right" alt="GIF" src="https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/raw/master/assets/image.gif?raw=true" width="300" height="300" style="max-width: 100%;">
+- :school: I am  `Studied` at IJSE-Institute of Software Engineering... <img align="right" alt="GIF" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/image.gif" width="300" height="300" style="max-width: 100%;">
 - 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer mainly at `Codeforces`.
@@ -77,4 +77,4 @@
 <a href="https://github.com/NimeshPiyumantha/github-readme-activity-graph"><img alt="NimeshPiyumantha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NimeshPiyumantha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## 🔥 Watch my contribution graph get eaten by the snake 🐍
-![snake](https://github.com/Nimma/red-alpha/blob/red-alpha/github-contribution-grid-snake.svg)
+![snake](https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg)
