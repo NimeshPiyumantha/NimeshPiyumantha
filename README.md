@@ -77,4 +77,4 @@
 <a href="https://github.com/NimeshPiyumantha/github-readme-activity-graph"><img alt="NimeshPiyumantha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NimeshPiyumantha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## 🔥 Watch my contribution graph get eaten by the snake 🐍
-![Nimesh snake gif](https://github.com/Shehanka/Shehanka/blob/output/github-contribution-grid-snake.svg)
+![Nimesh snake gif](https://github.com/Nimesh/Nimesh/blob/output/github-contribution-grid-snake.svg)
