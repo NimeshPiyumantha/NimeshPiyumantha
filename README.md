@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p><br>
 
-[![Untitled-2](https://github.com/NimeshPiyumantha/My_Personal_Web/blob/main/Nimesh_Web/img/Capture_2022_04_27_17_53_33_193.png)](https://nimmanimma.000webhostapp.com/index.html)
+[![Untitled-2](https://github.com/NimeshPiyumantha/My_Personal_Web/blob/main/Nimesh_Web/img/Capture_2022_04_27_17_53_33_193.png)]
 
 <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"> <img src="https://badges.pufler.dev/visits/M4cs/M4cs"> <img src="https://badges.pufler.dev/years/M4cs"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=NimeshPiyumantha&label=Profile%20views&color=0e75b6&style=flat" alt="NimeshPiyumantha" /> </p>
 
