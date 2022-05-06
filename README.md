@@ -2,12 +2,16 @@
 
 <h3 align="center"><b><i>Full Stack Software Developer from Sri Lanka</i></b></h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p></br>
 
 ![Untitled-2](https://github.com/NimeshPiyumantha/red-alpha/blob/main/Capture_2022_04_27_17_53_33_193.png)</br>
 
-<img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"> <img src="https://badges.pufler.dev/visits/M4cs/M4cs"> <img src="https://badges.pufler.dev/years/M4cs"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=NimeshPiyumantha&label=Profile%20views&color=0e75b6&style=flat" alt="NimeshPiyumantha" /> </p>
+<img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"> 
+<img src="https://badges.pufler.dev/visits/M4cs/M4cs"> 
+<img src="https://badges.pufler.dev/years/M4cs"> <p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=NimeshPiyumantha&label=Profile%20views&color=0e75b6&style=flat" alt="NimeshPiyumantha" /> </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/NimeshPiyumantha.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/NimeshPiyumantha?tab=followers)
 
@@ -35,7 +39,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-	<a href="https://twitter.com/NPiyumantha60"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__NimeshPiyumantha__" height="30" width="40" /></a>
+<a href="https://twitter.com/NPiyumantha60"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__NimeshPiyumantha__" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nimesh-piyumantha-33736a222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100025931563090" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nimesh Piyumantha" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_.nimmaa._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.nimmaa._" height="30" width="40" /></a>
