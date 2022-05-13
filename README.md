@@ -31,7 +31,7 @@
 
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me <img src="https://raw.githubusercontent.com/NimeshPiyumantha/red-alpha/main/giphy.webp" width="40px">
 <p align="center">
 <a href="https://twitter.com/NPiyumantha60"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__NimeshPiyumantha__" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nimesh-piyumantha-33736a222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
@@ -41,9 +41,9 @@
 </a>
 </p>
 
-## 🛠️ My Skills
+## 🛠️ My Skills <img src="https://raw.githubusercontent.com/NimeshPiyumantha/red-alpha/main/giphy%20(1).webp" width="40px">
 
-<h3 align="left"><b><i>Languages :</i></b></h3>
+<h3 align="left"><b><i>Languages :<img src="https://raw.githubusercontent.com/NimeshPiyumantha/red-alpha/main/giphy%20(2).webp" width="40px"></i></b></h3>
 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>&nbsp;&nbsp;&nbsp; </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;&nbsp;&nbsp; </a>
@@ -55,7 +55,7 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>&nbsp;&nbsp;&nbsp; </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;&nbsp; </a>
 
-<h3 align="left"><b><i> Tools:</i></b></h3>
+<h3 align="left"><b><i>Tools: </i><img src="https://raw.githubusercontent.com/NimeshPiyumantha/red-alpha/main/giphy%20(2).webp" width="40px"></h3>
 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> &nbsp;&nbsp;&nbsp;</a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>&nbsp;&nbsp;&nbsp; </a>
@@ -88,6 +88,7 @@
 <h5 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
 𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 𝚐𝚛𝚎𝚊𝚝 𝚍𝚊𝚢 ! 
+<img src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/Hi.gif" width="20px">
 </h5>
 
 <div align="center">
