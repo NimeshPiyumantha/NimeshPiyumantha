@@ -8,10 +8,7 @@
 
 ![Untitled-2](https://github.com/NimeshPiyumantha/red-alpha/blob/main/Capture_2022_04_27_17_53_33_193.png)</br>
 
-<img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"> 
-<img src="https://badges.pufler.dev/visits/M4cs/M4cs"> 
-<img src="https://badges.pufler.dev/years/M4cs"> <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=NimeshPiyumantha&label=Profile%20views&color=0e75b6&style=flat" alt="NimeshPiyumantha" /> </p>
+<img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"> <img src="https://badges.pufler.dev/visits/M4cs/M4cs"> <img src="https://badges.pufler.dev/years/M4cs"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=NimeshPiyumantha&label=Profile%20views&color=0e75b6&style=flat" alt="NimeshPiyumantha" /> </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/NimeshPiyumantha.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/NimeshPiyumantha?tab=followers)
 
@@ -29,12 +26,9 @@
 
 ## 🔥 Streak Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NimeshPiyumantha&theme=monokai)
-<br>
-<br>
 [![](https://github-readme-streak-stats.herokuapp.com?user=NimeshPiyumantha&theme=soft-green)](https://git.io/streak-stats)
-<br>
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=NimeshPiyumantha&show_icons=true&theme=gotham" alt="NimeshPiyumantha | Stats" />
+
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
@@ -69,14 +63,21 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;&nbsp;&nbsp; </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="40" height="40"/>&nbsp;&nbsp;&nbsp;</a>
 <a href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" width="40" height="40"/>&nbsp;&nbsp;&nbsp;</a>
+<!--trap-->
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<a href="https://github.com/NimeshPiyumantha/github-readme-stats"><img alt="NimeshPiyumantha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshPiyumantha&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+</br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NimeshPiyumantha&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NimeshPiyumantha&theme=github_dark)</br>
 
-<br><p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=NimeshPiyumantha&show_icons=true&theme=gotham" alt="NimeshPiyumantha | Stats" />
-  
-[comment]: <> (<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshPiyumantha&langs_count=5&theme=gotham" alt="NimeshPiyumantha | My GitHub Language Stats" />)
-<p align="left"> <a href="https://github.com/NimeshPiyumantha/github-readme-stats"><img alt="NimeshPiyumantha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshPiyumantha&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a> </p>
+<!--trap-->
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <a href="https://github.com/NimeshPiyumantha/github-readme-activity-graph"><img alt="NimeshPiyumantha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NimeshPiyumantha&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<!--trap-->
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 🔥 Watch my contribution graph get eaten by the snake 🐍
 ![snake](https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg)
