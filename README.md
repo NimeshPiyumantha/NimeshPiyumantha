@@ -81,3 +81,23 @@
 
 ## 🔥 Watch my contribution graph get eaten by the snake 🐍
 ![snake](https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg)
+
+<!--trap-->
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<h5 align="center">
+𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
+𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 𝚐𝚛𝚎𝚊𝚝 𝚍𝚊𝚢 ! 
+</h5>
+
+<div align="center">
+
+![repo size](https://img.shields.io/github/repo-size/NimeshPiyumantha/NimeshPiyumantha?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
+![GitHub forks](https://img.shields.io/github/forks/NimeshPiyumantha/NimeshPiyumantha?&labelColor=black&color=0fb9b1&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/NimeshPiyumantha/NimeshPiyumantha?&labelColor=black&color=f7b731&style=for-the-badge)
+![GitHub LastCommit](https://img.shields.io/github/last-commit/NimeshPiyumantha/NimeshPiyumantha?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+</div>
+
+<p align="center">
+  <img src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/api.svg"/>
+</p>
