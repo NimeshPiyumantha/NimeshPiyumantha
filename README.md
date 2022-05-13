@@ -25,7 +25,7 @@
 				'Music',
                          'Chilling',
 			 	'Gaming',
-				'Sci-Fi Movies'
+				'Sci-Fi Movies',
                          'learning new things'
 			]
 	
