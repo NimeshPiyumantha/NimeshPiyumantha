@@ -12,19 +12,33 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/NimeshPiyumantha.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/NimeshPiyumantha?tab=followers)
 
-## :sassy_man:  About me
+## Who am I ? <img src="https://raw.githubusercontent.com/NimeshPiyumantha/red-alpha/main/giphy%20(2).webp" width="40px">
 
-- :school: I am  `Studied` at IJSE-Institute of Software Engineering... <img align="right" alt="GIF" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/image.gif" width="300" height="300" style="max-width: 100%;">
-- 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer mainly at `Codeforces`.
-- :nerd_face: Always `learning new things`
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Coding.
-- 🌱 Currently learning Java, CSS, PHP, MySql, Python, JavaScript & HTML.
-<br>
+ ```python
+  class WhoAmI:
+    user = 'Nimesh Piyumantha'
+	current_edu = "IJSE-Institute of Software Engineering"
+    currently_Studied = "Computer Science and Software Engineering"
+    currently_learning = "Java, CSS, PHP, MySql, Python, JavaScript & HTML"
+    fun_fact = "I hate Chillies"
+	hobbies = [
+				'Music',
+                         'Chilling',
+			 	'Gaming',
+				'Sci-Fi Movies'
+                         'learning new things'
+			]
+	
+	def getCity():
+		return Galle_Srilanka()
+	
+	def Ambitions():
+		BecomeSoftwareEngineer()
+		FinishMyProjects()
+	
+ ```
 
-## 🔥 Streak Stats
+## 🔥 Streak Stats <img src="https://raw.githubusercontent.com/NimeshPiyumantha/red-alpha/main/giphy%20(2).webp" width="40px">
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=NimeshPiyumantha&theme=soft-green)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=NimeshPiyumantha&show_icons=true&theme=gotham" alt="NimeshPiyumantha | Stats" />
@@ -42,8 +56,9 @@
 </p>
 
 ## 🛠️ My Skills <img src="https://raw.githubusercontent.com/NimeshPiyumantha/red-alpha/main/giphy%20(1).webp" width="40px">
+<img align="right" alt="GIF" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/image.gif" width="300" height="300" style="max-width: 100%;">
 
-<h3 align="left"><b><i>Languages :<img src="https://raw.githubusercontent.com/NimeshPiyumantha/red-alpha/main/giphy%20(2).webp" width="40px"></i></b></h3>
+<h3 align="left"><b><i>Languages :</i></b></h3>
 
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>&nbsp;&nbsp;&nbsp; </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;&nbsp;&nbsp; </a>
@@ -55,7 +70,7 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>&nbsp;&nbsp;&nbsp; </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;&nbsp; </a>
 
-<h3 align="left"><b><i>Tools: </i><img src="https://raw.githubusercontent.com/NimeshPiyumantha/red-alpha/main/giphy%20(2).webp" width="40px"></h3>
+<h3 align="left"><b><i>Tools: </i></h3>
 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> &nbsp;&nbsp;&nbsp;</a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>&nbsp;&nbsp;&nbsp; </a>
