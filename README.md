@@ -55,8 +55,9 @@
 </a>
 </p>
 
-## 🛠️ My Skills <img src="https://raw.githubusercontent.com/NimeshPiyumantha/red-alpha/main/giphy%20(1).webp" width="40px">
-<img align="right" alt="GIF" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/image.gif" width="300" height="300" style="max-width: 100%;">
+## 🛠️ My Skills <img src="https://raw.githubusercontent.com/NimeshPiyumantha/red-alpha/main/giphy%20(1).webp" width="40px"></a> 
+<!-- <img align="left" alt="GIF" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/image.gif" width="300" height="300" style="max-width: 100%;"> -->
+
 
 <h3 align="left"><b><i>Languages :</i></b></h3>
 
@@ -77,7 +78,7 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> &nbsp;&nbsp;&nbsp;</a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;&nbsp;&nbsp; </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="40" height="40"/>&nbsp;&nbsp;&nbsp;</a>
-<a href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" width="40" height="40"/>&nbsp;&nbsp;&nbsp;</a>
+<a href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" width="40" height="40"/>&nbsp;&nbsp;&nbsp;</a> 
 <!--trap-->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
