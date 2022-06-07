@@ -39,10 +39,9 @@
  ```
 
 ## 🔥 Streak Stats <img src="https://raw.githubusercontent.com/NimeshPiyumantha/red-alpha/main/giphy%20(2).webp" width="40px">
-
 [![](https://github-readme-streak-stats.herokuapp.com?user=NimeshPiyumantha&theme=soft-green)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=NimeshPiyumantha&show_icons=true&theme=gotham" alt="NimeshPiyumantha | Stats" />
-
+</p>
 
 
 ##  Connect with me <img src="https://raw.githubusercontent.com/NimeshPiyumantha/red-alpha/main/giphy.webp" width="40px">
