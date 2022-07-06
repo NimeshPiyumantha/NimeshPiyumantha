@@ -6,7 +6,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p></br>
 
-![Untitled-2](https://github.com/NimeshPiyumantha/red-alpha/blob/main/Capture_2022_04_27_17_53_33_193.png)</br>
+
+[![myProfile](https://github.com/NimeshPiyumantha/red-alpha/blob/main/home.png)](https://nimeshpiyumantha.github.io/My-Protfoliyo)</br>
 
 <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"> 
 
