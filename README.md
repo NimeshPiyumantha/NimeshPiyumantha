@@ -7,7 +7,7 @@
 </p></br>
 
 
-[![myProfile](https://github.com/NimeshPiyumantha/My-Protfoliyo/blob/main/assests/mainMockup.png)](https://nimeshpiyumantha.github.io/My-Protfoliyo)</br>
+[![myProfile](https://github.com/NimeshPiyumantha/My-Protfoliyo/blob/main/assets/images/mainMockup.png)](https://nimeshpiyumantha.github.io/My-Protfoliyo)</br>
 
 <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"> 
 
