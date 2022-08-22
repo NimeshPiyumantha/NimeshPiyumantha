@@ -41,6 +41,13 @@
 	
  ```
 
+## 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
+
+***If you like what i do, maybe consider buying me a coffee*** 🥺 👇
+
+<a href="https://www.buymeacoffee.com/NimeshPiyumanth"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
+
+
 ## 🔥 Streak Stats <img src="https://raw.githubusercontent.com/NimeshPiyumantha/red-alpha/main/giphy%20(2).webp" width="40px">
 [![](https://github-readme-streak-stats.herokuapp.com?user=NimeshPiyumantha&theme=soft-green)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=NimeshPiyumantha&show_icons=true&theme=gotham" alt="NimeshPiyumantha | Stats" />
