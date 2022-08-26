@@ -104,8 +104,8 @@
 <!--trap-->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## 🔥 Watch my contribution graph get eaten by the snake 🐍
-![snake](https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg)
+# My Github Status📊
+![Metrics](https://metrics.lecoq.io/NimeshPiyumantha)
 
 <!--trap-->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
