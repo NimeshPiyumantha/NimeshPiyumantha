@@ -40,6 +40,13 @@
 		FinishMyProjects()
 	
  ```
+## Awards 
+<a href="https://www.holopin.io/@nimeshpiyumantha">
+  <img src="https://holopin.me/nimeshpiyumantha" alt="@nimeshpiyumantha's Holopin board" />
+</a>
+
+</br>
+
 
 ## 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧
 
