@@ -56,9 +56,19 @@
 
 
 ## 🔥 Streak Stats <img src="https://raw.githubusercontent.com/NimeshPiyumantha/red-alpha/main/giphy%20(2).webp" width="40px">
-[![](https://github-readme-streak-stats.herokuapp.com?user=NimeshPiyumantha&theme=soft-green)](https://git.io/streak-stats)
+
+<p align="center">
+  <p align="center">
+    <a href="https://github.com/NimeshPiyumantha/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nimesh Piyumantha's streak" src="https://github-readme-streak-stats.herokuapp.com?user=NimeshPiyumantha&theme=soft-green"/>
+    </a>
+  </p>
+</p>
+
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=NimeshPiyumantha&show_icons=true&theme=gotham" alt="NimeshPiyumantha | Stats" />
 </p>
+</div>
 
 
 ##  Connect with me <img src="https://raw.githubusercontent.com/NimeshPiyumantha/red-alpha/main/giphy.webp" width="40px">
