@@ -121,13 +121,6 @@
   </a>
 </p>
 
-<h3 align="center"><b><i>Operating Systems </i></b></h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=windows,ubundu" />
-  </a>
-</p>
-
 <h3 align="center"><b><i>IDEs and Design Tools </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
