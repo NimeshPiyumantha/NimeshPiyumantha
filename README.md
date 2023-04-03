@@ -93,19 +93,62 @@
 ## 🛠️ My Skills <img src="https://raw.githubusercontent.com/NimeshPiyumantha/red-alpha/main/giphy%20(1).webp" width="40px"></a> 
 <!-- <img align="left" alt="GIF" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/image.gif" width="300" height="300" style="max-width: 100%;"> -->
 
-
-<h3 align="left"><b><i>Languages and Tools :</i></b></h3>
+<h3 align="center"><b><i>Language Stack </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,css,gcp,git,hibernate,html,mysql,java,js,nodejs,php,py,spring" />
+   <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,python,php" />
   </a>
 </p>
 
+<h3 align="center"><b><i>Frameworks and Libraries </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=figma,xd,github,androidstudio,idea,vscode,eclipse" />
+   <img src="https://skillicons.dev/icons?i=nodejs,react,spring,jquery,bootstrap,tailwindcss,materialui,maven,flutter" />
   </a>
 </p>
+
+<h3 align="center"><b><i>ORM </i></b></h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=hibernate" />
+  </a>
+</p>
+
+<h3 align="center"><b><i>Database Handling </i></b></h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  </a>
+</p>
+
+<h3 align="center"><b><i>Operating Systems </i></b></h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=windows,ubundu" />
+  </a>
+</p>
+
+<h3 align="center"><b><i>IDEs and Design Tools </i></b></h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=figma,xd,androidstudio,idea,vscode,eclipse" />
+  </a>
+</p>
+
+<h3 align="center"><b><i>API Platform, Servers and Cloud Computing</i></b></h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=postman,gcp,azure,apache" />
+  </a>
+</p>
+
+<h3 align="center"><b><i>Version Control Software</i></b></h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+  </a>
+</p>
+
 </br>
 
 <!--trap-->
