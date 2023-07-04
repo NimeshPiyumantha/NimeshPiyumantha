@@ -110,7 +110,7 @@
 <h3 align="center"><b><i>Frameworks and Libraries </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=nodejs,react,spring,jquery,bootstrap,tailwindcss,materialui,maven,flutter" />
+   <img src="https://skillicons.dev/icons?i=nodejs,react,spring,jquery,bootstrap,tailwindcss,materialui,maven,flutter,nest,next" />
   </a>
 </p>
 
@@ -131,7 +131,7 @@
 <h3 align="center"><b><i>IDEs and Design Tools </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=figma,xd,androidstudio,idea,vscode,eclipse" />
+   <img src="https://skillicons.dev/icons?i=figma,xd,androidstudio,idea,vscode,eclipse,vite" />
   </a>
 </p>
 
