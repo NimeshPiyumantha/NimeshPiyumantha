@@ -124,7 +124,7 @@
 <h3 align="center"><b><i>Database Handling </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgresql" />
   </a>
 </p>
 
