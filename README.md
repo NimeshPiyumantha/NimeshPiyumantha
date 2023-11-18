@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Nimesh+Piyumantha+Wijewickrama;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Nimesh+Piyumantha+Wijewickrama;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering;Intern+Software+Engineer-+%F0%9F%91%8B%2C+Fcode+labs;)](https://git.io/typing-svg)
 
 <h3 align="center"><b><i>Full Stack Software Developer from Sri Lanka</i></b></h3>
 <p align="center">
