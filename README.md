@@ -1,13 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Nimesh+Piyumantha+Wijewickrama;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering;Intern+Software+Engineer-+%F0%9F%91%8B%2C+Fcode+labs;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Nimesh+Piyumantha+Wijewickrama;Software+Engineer+%F0%9F%91%8B%2C+Kingteza+Software+Solutions;Graduated+from+London+Metropolitan+University)](https://git.io/typing-svg)
 
 <h3 align="center"><b><i>Full Stack Software Developer from Sri Lanka</i></b></h3>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Graduated+from+London+Metropolitan+University;First+Class+Honours;BEng+(Hons)+Software+Engineering;Flutter+Developer;Mobile+App+Developer;Web+Developer;Full+Stack+Developer;UI/UX+Designer&center=true&width=500&height=50"></a>
 </p></br>
 
-
-[![myProfile](https://github.com/NimeshPiyumantha/My-Protfoliyo/blob/main/assets/styles/img/images/mainMockup.png)](https://nimeshpiyumantha.github.io/My-Protfoliyo)</br>
+[![myProfile](https://github.com/NimeshPiyumantha/nimesh-piyumantha-portfolio/blob/master/src/assets/mainMockup.png)](https://nimesh-piyumantha-portfolio.vercel.app/)</br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -17,7 +16,7 @@
 
 <p align="center">
 <a href="https://wakatime.com/@bde2acba-42bd-46e8-a905-d74c6f260407"><img src="https://wakatime.com/badge/user/bde2acba-42bd-46e8-a905-d74c6f260407.svg" alt="Total time coded since Feb 5 2023" /></a>
-	</p>
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -29,31 +28,45 @@
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_public/NimeshPiyumantha.svg)](https://user-badge.committers.top/sri_lanka_public/NimeshPiyumantha) </br>
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/NimeshPiyumantha.svg)](https://user-badge.committers.top/sri_lanka_private/NimeshPiyumantha)</br>
 
-
 ## Who am I ? <img src="https://raw.githubusercontent.com/NimeshPiyumantha/red-alpha/main/giphy%20(2).webp" width="40px">
 
 ```python
- class WhoAmI:
-   user = 'Nimesh Piyumantha'
-	current_edu = "IJSE-Institute of Software Engineering"
-   currently_Studied = "Computer Science and Software Engineering"
-   currently_learning = "Java, CSS, PHP, MySql, Python, JavaScript & HTML"
-   fun_fact = "I hate Chillies"
-	hobbies = [
-				'Music',
-                        'Chilling',
-			 	'Gaming',
-				'Sci-Fi Movies',
-                        'learning new things'
-			]
+class WhoAmI:
+    user = 'Nimesh Piyumantha'
+    current_position = "Software Engineer at Kingteza Software Solutions"
+    education = "BEng (Hons) Software Engineering - First Class Honours"
+    university = "London Metropolitan University"
+    previous_education = "Graduate Diploma in Software Engineering - IJSE"
+    specialization = "Flutter Mobile Development & Full Stack Development"
+    currently_working_with = ["Flutter", "Bloc", "Firebase", "React", "Node.js", "PostgreSQL"]
+    fun_fact = "I hate Chillies"
+    hobbies = [
+        'Mobile App Development',
+        'Music',
+        'Chilling',
+        'Gaming',
+        'Sci-Fi Movies',
+        'Learning new technologies'
+    ]
 
-	def getCity():
-		return Galle_Srilanka()
+    def getCity():
+        return Galle_Srilanka()
 
-	def Ambitions():
-		BecomeSoftwareEngineer()
-		FinishMyProjects()
+    def getCurrentGoals():
+        return [
+            'Building innovative mobile applications',
+            'Contributing to open source projects',
+            'Mastering advanced Flutter development',
+            'Exploring new technologies'
+        ]
 
+    def getAchievements():
+        return [
+            'First Class Honours Graduate',
+            'Published mobile app on Play Store',
+            'Professional Software Engineer',
+            'Flutter & Full Stack Specialist'
+        ]
 ```
 
 ## Awards
@@ -90,41 +103,40 @@
 <p align="center">
 <a href = "https://www.linkedin.com/in/nimesh-piyumantha-33736a222" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/NPiyumantha60" target="blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
-<a href="mailto:nimeshpiyumantha11@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
+<a href="mailto:nimeshpiyumantha12@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
 <a href = "https://www.instagram.com/_.nimmaa._/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/profile.php?id=100025931563090" target="blank"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
 <a href = "https://www.hackerrank.com/NimeshPiyumantha" target="blank"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/></a>
 </p>
 
-## 🛠️ My Skills <img src="https://raw.githubusercontent.com/NimeshPiyumantha/red-alpha/main/giphy%20(1).webp" width="40px"></a>
-
-<!-- <img align="left" alt="GIF" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/image.gif" width="300" height="300" style="max-width: 100%;"> -->
+## 🛠️ My Skills <img src="https://raw.githubusercontent.com/NimeshPiyumantha/red-alpha/main/giphy%20(1).webf" width="40px"></a>
 
 <h3 align="center"><b><i>Language Stack </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,python,php,dart" />
+   <img src="https://skillicons.dev/icons?i=java,dart,javascript,typescript,python,html,css,php" />
   </a>
 </p>
 
 <h3 align="center"><b><i>Frameworks and Libraries </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=nodejs,react,spring,jquery,bootstrap,tailwindcss,materialui,maven,flutter,nest,next" />
+   <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,spring,nest,next,jquery,bootstrap,tailwindcss,materialui,maven" />
   </a>
 </p>
 
-<h3 align="center"><b><i>ORM </i></b></h3>
+<h3 align="center"><b><i>State Management & Architecture </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=hibernate" />
+   <img src="https://skillicons.dev/icons?i=redux" />
   </a>
+  <img src="https://img.shields.io/badge/Bloc-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Bloc" />
 </p>
 
-<h3 align="center"><b><i>Database Handling </i></b></h3>
+<h3 align="center"><b><i>Database & Backend Services </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgresql" />
+   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,firebase" />
   </a>
 </p>
 
@@ -138,15 +150,16 @@
 <h3 align="center"><b><i>API Platform, Servers and Cloud Computing</i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=postman,gcp,azure,apache" />
+   <img src="https://skillicons.dev/icons?i=postman,gcp,azure,apache,docker" />
   </a>
 </p>
 
-<h3 align="center"><b><i>Version Control Software</i></b></h3>
+<h3 align="center"><b><i>Version Control & Testing</i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
   </a>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
 </p>
 
 </br>
@@ -167,8 +180,7 @@
 <a href="https://github.com/NimeshPiyumantha/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nimesh Piyumantha's streak" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NimeshPiyumantha&theme=github_dark"/>
     </a>
-  </div>
-
+</div>
 
 <!--trap-->
 
